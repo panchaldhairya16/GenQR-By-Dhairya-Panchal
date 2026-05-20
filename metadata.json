@@ -1,0 +1,6 @@
+{
+  "name": "GenQR’By D",
+  "description": "Generate smart and highly customized QR codes instantly. Choose from different categories (WiFi, URL, Email, SMS, Phone, Text), customize colors and sizes, add a central logo, view generation history, and download high-quality styles (PNG, JPG, SVG).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
