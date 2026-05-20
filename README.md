@@ -28,7 +28,19 @@
 
 <br/>
 
----
+<div align="center">
+
+# 🌍 Live Preview
+
+<a href="https://gen-qr-by-dhairya-panchal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Open%20Live%20Project-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+> Experience the project live in action.
+
+</div>
 
 </div>
 
